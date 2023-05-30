@@ -1,0 +1,50 @@
+body{
+    background: #FFF3D3;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+
+
+
+.header-menu{
+
+    white-space: nowrap;
+
+    z-index: 1;
+}
+
+.project-info{
+    position:fixed;
+    width: 874px;
+    height: 570px;
+    left: 7vw;
+    top: 15vh;
+
+}
+
+.title{
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+
+    color: #6F8165;
+}
+
+.credits{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #9CA777;
+
+}
+
+.main-logo-rmmt{
+    position: fixed;
+    width: 40vw;
+    right: 50px;
+    top:8vh;
+
+}
