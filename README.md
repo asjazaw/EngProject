@@ -1,3 +1,3 @@
-# EngProjectHTML
+# EngProject
 
-### link: https://kkozemjakins.github.io/EngProjectHTML/html/1landing-page.html
+### link: https://asjazaw.github.io/EngProject/html/1landing-page.html
