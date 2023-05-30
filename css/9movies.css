@@ -76,3 +76,9 @@ body{
     top: 25vh;
 
 }
+.rmmt-icon{
+    position: fixed;
+    width: 3.5%;
+    left: 95.8%;
+    bottom: 1.8%;
+}

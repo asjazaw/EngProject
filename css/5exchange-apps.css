@@ -7,8 +7,8 @@ body{
 
 .left-side{
     position: fixed;
-    width: 43%;
-    top: 1vh;
+    width: 44%;
+    top: 4vh;
     left: 10vh;
 }
 
@@ -74,7 +74,14 @@ body{
 }
 
 .slider{
-    left: 130vh;
-    top: 7vh;
+    left: 68%;
+    top: 18vh;
 
+}
+
+.rmmt-icon{
+    position: fixed;
+    width: 3.5%;
+    left: 95.8%;
+    bottom: 1.8%;
 }

@@ -17,7 +17,7 @@ header {
   
   nav ul li {
     display: inline;
-    margin-right: 10px;
+    margin-right: 25px;
   }
   
   nav ul li a {
@@ -26,9 +26,24 @@ header {
     padding: 5px;
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
   }
   
   nav ul li a:hover {
     color: #333333;
   }
+
+.icons{
+  position: relative;
+  fill: #FFF3D3;
+  height: 20px;
+  top: 2px;
+  right: -3px;
+}
+
+nav ul li:hover .icons,
+nav ul li:hover a .icons {
+  fill: #333333;
+}
+
+

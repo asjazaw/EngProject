@@ -7,8 +7,8 @@ body{
 
 .left-side{
     position: fixed;
-    width: 88%;
-    top: 0vh;
+    width: 43%;
+    top: 4vh;
     left: 10vh;
 }
 
@@ -25,19 +25,11 @@ body{
 }
 
 .by-who{
-    position: relative;
     font-style: normal;
     font-size: 24px;
     line-height: 29px;
-
-    top: -5vh;
     
     color: #6F8065;
-}
-
-.first-app{
-    position: relative;
-    top: -3vh;
 }
 
 .app-title{
@@ -50,18 +42,17 @@ body{
 }
 
 .app-info-link{
-    font-size: 24px;
-    line-height: 32px;
-    color: #2b369a;
-    text-decoration: none;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4751ad;
 }
 
 .app-info-link:hover{
-    color: #1d2252;
+    color: #2b316a;
 }
 
 .app-text{
-    font-size: 24px;
+    font-size: 26px;
     line-height: 32px;
     
     color: #6F8065;
@@ -80,8 +71,31 @@ body{
     background-color: #6F8065;
 }
 
+
+.right-txt{
+    font-size: 24px;
+    line-height: 32px;
+
+    width: 777px;
+    height: 342px;
+
+    position: fixed;
+
+    right: 10vh;
+    bottom: -8.5vh;
+
+    color: #6F8065;
+}
+
 .slider{
-    left: 63.5%;
+    left: 61%;
     top: 18vh;
 
+}
+
+.rmmt-icon{
+    position: fixed;
+    width: 3.5%;
+    left: 95.8%;
+    bottom: 1.8%;
 }

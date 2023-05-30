@@ -9,10 +9,11 @@ body{
 
 .left-side{
     position: fixed;
-    width: 40%;
-    top: 1vh;
+    width: 41.5%;
+    top: 4vh;
     left: 10vh;
 }
+
 
 .right-side{
     z-index: -1;
@@ -73,10 +74,7 @@ body{
     background-color: #FFF3D3;
 }
 
-.right-side{
-    position: fixed;
 
-}
 
 .right-txt{
     font-size: 20px;
@@ -88,13 +86,20 @@ body{
     position: fixed;
 
     right: 10vh;
-    bottom: 7vh;
+    bottom: -0.5vh;
 
     color: #FFF3D3;
 }
 
 .slider{
-    left: 135vh;
-    top: 5vh;
+    left: 68%;
+    top: 9.5vh;
 
+}
+
+.rmmt-icon{
+    position: fixed;
+    width: 3.5%;
+    left: 95.8%;
+    bottom: 1.8%;
 }
