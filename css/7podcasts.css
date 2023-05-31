@@ -87,6 +87,25 @@ body{
     color: #6F8065;
 }
 
+@media (max-width: 1680px) {
+
+    .right-txt{
+        font-size: 20px;
+        line-height: 24px;
+    
+        width: 35%;
+        height: 342px;
+    
+        position: fixed;
+    
+        right: 8vh;
+        bottom: -4.5vh;
+    
+        color: #6F8065;
+    }
+    
+}
+
 .slider{
     left: 61%;
     top: 18vh;
